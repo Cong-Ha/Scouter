@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/uzomaki/RiderProjects/Scouter/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/uzomaki/RiderProjects/Scouter/bin/Debug/net9.0-maccatalyst/maccatalyst-arm64/Scouter.app
